@@ -1,4 +1,4 @@
 # git_hub_project
 this is my first git hub project
 <br>
-author - rajat bareja
+author - rajat bhatinda
